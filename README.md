@@ -29,7 +29,7 @@ Bem-vindo ao projeto **Lâmpada Interativa**, onde uma simples lâmpada ganha vi
 
 ## 👀 Demonstração
 
-Confira a lâmpada em ação! [Clique aqui](https://seu-link-para-o-github-pages/) para ver a demonstração ao vivo.
+Confira a lâmpada em ação! [Clique aqui](https://campelo3110.github.io/Lampada-com-botao-off-on/) para ver a demonstração ao vivo.
 
 ## 📜 Licença
 
